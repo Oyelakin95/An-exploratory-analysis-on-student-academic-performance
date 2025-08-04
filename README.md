@@ -78,7 +78,7 @@ This analysis helps uncover patterns and inequalities in educational outcomes.
   - Parental Education Level
   - Test Preparation
 - Applied slicers for interactive filtering
-- Charted performance trends
+  
 
 ---
 
@@ -93,7 +93,7 @@ This analysis helps uncover patterns and inequalities in educational outcomes.
 
 ---
 
-## 📈 Dashboard ![
+## 📈 ![Dashboard](https://github.com/Oyelakin95/An-exploratory-analysis-on-student-academic-performance/blob/main/sp%20dashboard.png)
 
 A dashboard was created using Excel slicers and charts for real-time exploration of student performance by demographic segments.
 
@@ -119,4 +119,4 @@ Student performance is clearly influenced by a variety of demographic and socioe
 - **Dataset**: [Kaggle - Students Performance Data](https://www.kaggle.com/datasets)
 - **Tools Used**: Microsoft Excel (Pivot Tables, Charts, Filters)
 
----This project is designed to track the student performance  data across it's  gender, race/ethnic and parental level. 
+
